@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "771b",
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2025-01-09T14:54:25.605Z",
+      "notes": "My HomeTown, Ishagatedo",
+      "position": {
+        "lat": "6.527723935203001",
+        "lng": "3.325096965515058"
+      }
+    },
+    {
+      "id": "a84f",
+      "cityName": "Limerick",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2025-01-09T15:03:10.261Z",
+      "notes": "Dream place of study/relocation",
+      "position": {
+        "lat": "52.65639394198803",
+        "lng": "-8.574758124571236"
+      }
+    },
+    {
+      "id": "dae9",
+      "cityName": "Freetown",
+      "country": "Sierra Leone",
+      "emoji": "🇸🇱",
+      "date": "2025-01-09T19:44:50.494Z",
+      "notes": "I work here",
+      "position": {
+        "lat": "8.471311106195376",
+        "lng": "-13.270411491394043"
+      }
+    }
+  ]
+}
